@@ -52,7 +52,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 extern void jt_setIdentifierName(NSString*_Nonnull sqliteName);
 
-- (NSURL *)getPodBundleUrl:(NSString *)bundleName;
+
 @end
 
 NS_ASSUME_NONNULL_END
