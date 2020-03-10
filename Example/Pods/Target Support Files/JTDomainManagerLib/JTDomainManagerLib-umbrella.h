@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "JTEnvironmentSingle.h"
+#import "JTPodBundle.h"
 
 FOUNDATION_EXPORT double JTDomainManagerLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char JTDomainManagerLibVersionString[];

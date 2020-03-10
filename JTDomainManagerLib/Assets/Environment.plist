@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>server_weibo</key>
+		<string>http://www.jycut.com/</string>
+		<key>server_title</key>
+		<string>线下环境内网</string>
+		<key>server_url</key>
+		<array>
+			<string>http://dev-app.jycut.com/</string>
+		</array>
+		<key>server_web_local</key>
+		<array>
+			<string>http://dev-app.jycut.com/</string>
+		</array>
+		<key>server_web_h5</key>
+		<string>http://www.jycut.com/jyoff/</string>
+		<key>server_refresh</key>
+		<string>http://192.168.20.132:14001/</string>
+	</dict>
+	<dict>
+		<key>server_weibo</key>
+		<string>http://www.jycut.com</string>
+		<key>server_title</key>
+		<string>线下外网或测试环境</string>
+		<key>server_url</key>
+		<array>
+			<string>http://dev-app.jycut.com/</string>
+		</array>
+		<key>server_web_local</key>
+		<array>
+			<string>http://dev-app.jycut.com/</string>
+		</array>
+		<key>server_web_h5</key>
+		<string>http://www.jycut.com/jytest/</string>
+		<key>server_refresh</key>
+		<string>http://192.168.20.143:14001/</string>
+	</dict>
+	<dict>
+		<key>server_weibo</key>
+		<string>https://www.jycut.com/</string>
+		<key>server_title</key>
+		<string>线上环境</string>
+		<key>server_url</key>
+		<array>
+			<string>https://app.jycut.com/</string>
+		</array>
+		<key>server_web_local</key>
+		<array>
+			<string>https://www.jycut.com/jy/</string>
+		</array>
+		<key>server_web_h5</key>
+		<string>https://www.jycut.com/jy/</string>
+		<key>server_refresh</key>
+		<string>https://plug.qkvoice.com/</string>
+	</dict>
+</array>
+</plist>

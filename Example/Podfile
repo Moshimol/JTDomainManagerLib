@@ -1,3 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+## 自己的私有库
+source 'git@github.com:Moshimol/JTPrivateLibs.git'
+
 use_frameworks!
 
 platform :ios, '8.0'

@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'JTDomainManagerLib/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'JTDomainManagerLib' => ['JTDomainManagerLib/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'JTDomainManagerLib' => ['JTDomainManagerLib/Assets/*']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "JTDomainManagerLib/Classes/**/*"
+  "source_files": "JTDomainManagerLib/Classes/**/*",
+  "resource_bundles": {
+    "JTDomainManagerLib": [
+      "JTDomainManagerLib/Assets/*"
+    ]
+  }
 }
