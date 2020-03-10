@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JTDomainManagerLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JTDomainManagerLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JTDomainManagerLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JTDomainManagerLib: 0216fb2896b55e3e15b813cd3b136219c698990a
+
+PODFILE CHECKSUM: c2d32b64cdfd08f555a7604e65bccb61cb0a7a5f
+
+COCOAPODS: 1.8.4

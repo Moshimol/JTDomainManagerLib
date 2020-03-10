@@ -8,6 +8,6 @@ target 'JTDomainManagerLib_Example' do
   target 'JTDomainManagerLib_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+    #pod 'FBSnapshotTestCase'
   end
 end

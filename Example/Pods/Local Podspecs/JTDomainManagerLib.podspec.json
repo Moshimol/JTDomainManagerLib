@@ -1,0 +1,22 @@
+{
+  "name": "JTDomainManagerLib",
+  "version": "0.1.0",
+  "summary": "A short description of JTDomainManagerLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lushitong/JTDomainManagerLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lushitong": "lushitong@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lushitong/JTDomainManagerLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JTDomainManagerLib/Classes/**/*"
+}

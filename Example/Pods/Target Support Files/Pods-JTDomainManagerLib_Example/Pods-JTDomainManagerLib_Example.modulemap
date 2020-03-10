@@ -1,0 +1,6 @@
+framework module Pods_JTDomainManagerLib_Example {
+  umbrella header "Pods-JTDomainManagerLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

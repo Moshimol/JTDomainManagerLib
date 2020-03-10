@@ -1,0 +1,6 @@
+framework module JTDomainManagerLib {
+  umbrella header "JTDomainManagerLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
